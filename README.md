@@ -30,4 +30,4 @@ Clone the repository, open the project in Android Studio, hit "Run". Done!
 -   Navigation Drawer
 
 ## Screenshots Of the App:
-<img src="image1.jpeg" alt="drawing" width="200"/> <img src="image2.jpeg" alt="drawing" width="200"/> <img src="image3.jpeg" alt="drawing" width="200"/>
+<img src="images/image1.jpeg" alt="drawing" width="200"/> <img src="images/image2.jpeg" alt="drawing" width="200"/> <img src="images/image3.jpeg" alt="drawing" width="200"/>
